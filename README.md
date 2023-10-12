@@ -1,4 +1,5 @@
-<h1>Hi, I'm Raul! <br/><a href="https://github.com/raulch626">Programmer</a>, <a href="https://www.linkedin.com/in/rcherrera/">IT Support Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Raul! <br/><a href="https://github.com/raulch626">Passionate Technology Enthusiast</a>, <a href="https://www.linkedin.com/in/rcherrera/">Troubleshooting Expert</a>, 
+  <a href="https://www.youtube.com/c/joshmadakor">Cloud Cost Optimization Advocate</a></h1>
 
 <h2>👨‍💻 PowerShell Projects:</h2>
 

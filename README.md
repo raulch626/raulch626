@@ -1,5 +1,5 @@
-<h1>Hi, I'm Raul! <br/><a href="https://github.com/raulch626">Passionate Technology Enthusiast</a>, <a href="https://www.linkedin.com/in/rcherrera/">Troubleshooting Expert</a>, 
-  <a href="https://www.youtube.com/c/joshmadakor">Cloud Cost Optimization Advocate</a></h1>
+<h1>Hi, I'm Raul! <br/><a href="https://github.com/raulch626">Tech Enthusiast</a>, <a href="https://www.linkedin.com/in/rcherrera/">Troubleshooting Pro</a>, 
+  <a href="https://www.youtube.com/c/joshmadakor">Cloud Cost Optimizer</a></h1>
 
 <h2>👨‍💻 PowerShell Projects:</h2>
 

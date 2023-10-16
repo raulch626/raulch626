@@ -18,10 +18,6 @@
 <h2>📺 Professional Certifications</h2>
 
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/4269a2c6-a23d-432d-ad5a-94ee3814d621?source=linked_in_profile)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 

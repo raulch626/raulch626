@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raul! <br/><a href="https://github.com/raulch626">Tech Enthusiast</a>, <a href="https://www.linkedin.com/in/rcherrera/">Troubleshooting Pro</a>, 
+<h1>Hi, I'm Raul! <br/><a href="https://github.com/raulch626">Tech Problem Solver</a>, <a href="https://www.linkedin.com/in/rcherrera/">AI/Cloud Advocate</a>, 
   <a href="https://www.youtube.com/c/joshmadakor">Cloud Cost Optimizer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
